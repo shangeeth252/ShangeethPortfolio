@@ -5,6 +5,12 @@ I have added various data science and financial modelling projects which showcas
 
 [Suicide](https://github.com/shangeeth252/ShangeethUPortfolio/blob/master/Suicide%20analysis.ipynb)
 
-[Gun Violence](https://github.com/shangeeth252/ShangeethUPortfolio/blob/master/Gun%20Violence%20Analysis.ipynb).
+[Gun Violence](https://github.com/shangeeth252/ShangeethUPortfolio/blob/master/Gun%20Violence%20Analysis.ipynb)
+
+[Options Pricing Model](https://github.com/shangeeth252/ShangeethUPortfolio/blob/master/Assign5.xlsm)
+
+[Bond Portfolio Project](https://github.com/shangeeth252/ShangeethUPortfolio/blob/master/Assignment3.xlsx)
+
+[Stock Simulation Project](https://github.com/shangeeth252/ShangeethUPortfolio/blob/master/A6-Ready%20(1).xlsm)
 
 
